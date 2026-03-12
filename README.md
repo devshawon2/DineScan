@@ -1,16 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Introductory Pitch for DineScan
+DineScan is a QR-based smart food ordering platform designed specifically for corporate offices and canteens. Instead of standing in long lines or waiting to place orders, employees simply scan a QR code placed around the office, instantly opening the digital menu on their phones. From there they can explore categorized dishes, view detailed food information, customize their meals, and place orders within seconds.
+The platform is built to deliver a smooth, modern, and efficient ordering experience similar to leading food apps like Foodpanda or Uber Eats, but optimized for office environments and internal cafeterias. Employees get convenience and speed, while the canteen benefits from organized orders, reduced crowding, and better operational efficiency.
+DineScan is designed as a scalable system. It can start as a simple digital menu and grow into a full food-ordering ecosystem with features like smart recommendations, order tracking, loyalty rewards, and analytics. The goal is to transform the traditional office cafeteria into a smart, digital dining experience.
