@@ -1,0 +1,43 @@
+{
+    "dailySpecials": [
+        {
+            "foodId": 5,
+            "title": "Chef's Pick",
+            "discount": 20,
+            "label": "Today's Special"
+        },
+        {
+            "foodId": 3,
+            "title": "Lunch Favorite",
+            "discount": 15,
+            "label": "Popular Today"
+        }
+    ],
+    "limitedOffers": [
+        {
+            "id": "offer1",
+            "title": "Burger Combo Deal",
+            "items": [
+                3,
+                7,
+                9
+            ],
+            "price": 320,
+            "originalPrice": 390,
+            "expires": "2026-12-31"
+        }
+    ],
+    "bannerPromotions": [
+        {
+            "id": "promo1",
+            "title": "Lunch Rush Deal",
+            "description": "20% off on biryani from 12pm - 2pm",
+            "image": "https://images.unsplash.com/photo-1604908177522-402b5c39d3e4"
+        }
+    ],
+    "trendingItems": [
+        3,
+        5,
+        8
+    ]
+}

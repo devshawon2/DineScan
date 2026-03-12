@@ -1,0 +1,325 @@
+{
+    "categories": [
+        {
+            "symbol": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9InJnYigyNTUsIDExMSwgMCkiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1ncmlkM3gyLWljb24gbHVjaWRlLWdyaWQtM3gyIj48cGF0aCBkPSJNMTUgM3YxOCIvPjxwYXRoIGQ9Ik0zIDEyaDE4Ii8+PHBhdGggZD0iTTkgM3YxOCIvPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgcng9IjIiLz48L3N2Zz4=",
+            "id": "all",
+            "name": "All"
+        },
+        {
+            "symbol": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9InJnYigyNTUsIDExMSwgMCkiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jb2ZmZWUtaWNvbiBsdWNpZGUtY29mZmVlIj48cGF0aCBkPSJNMTAgMnYyIi8+PHBhdGggZD0iTTE0IDJ2MiIvPjxwYXRoIGQ9Ik0xNiA4YTEgMSAwIDAgMSAxIDF2OGE0IDQgMCAwIDEtNCA0SDdhNCA0IDAgMCAxLTQtNFY5YTEgMSAwIDAgMSAxLTFoMTRhNCA0IDAgMSAxIDAgOGgtMSIvPjxwYXRoIGQ9Ik02IDJ2MiIvPjwvc3ZnPg==",
+            "id": "breakfast",
+            "name": "Breakfast"
+        },
+        {
+            "symbol": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9InJnYigyNTUsIDExMSwgMCkiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1oYW1idXJnZXItaWNvbiBsdWNpZGUtaGFtYnVyZ2VyIj48cGF0aCBkPSJNMTIgMTZINGEyIDIgMCAxIDEgMC00aDE2YTIgMiAwIDEgMSAwIDRoLTQuMjUiLz48cGF0aCBkPSJNNSAxMmEyIDIgMCAwIDEtMi0yIDkgNyAwIDAgMSAxOCAwIDIgMiAwIDAgMS0yIDIiLz48cGF0aCBkPSJNNSAxNmEyIDIgMCAwIDAtMiAyIDMgMyAwIDAgMCAzIDNoMTJhMyAzIDAgMCAwIDMtMyAyIDIgMCAwIDAtMi0ycTAgMCAwIDAiLz48cGF0aCBkPSJtNi42NyAxMiA2LjEzIDQuNmEyIDIgMCAwIDAgMi44LS40bDMuMTUtNC4yIi8+PC9zdmc+",
+            "id": "lunch",
+            "name": "Lunch"
+        },
+        {
+            "symbol": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9InJnYigyNTUsIDExMSwgMCkiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1kb251dC1pY29uIGx1Y2lkZS1kb251dCI+PHBhdGggZD0iTTIwLjUgMTBhMi41IDIuNSAwIDAgMS0yLjQtM0gxOGEyLjk1IDIuOTUgMCAwIDEtMi42LTQuNCAxMCAxMCAwIDEgMCA2LjMgNy4xYy0uMy4yLS44LjMtMS4yLjMiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIi8+PC9zdmc+",
+            "id": "snacks",
+            "name": "Snacks"
+        },
+        {
+            "symbol": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9InJnYigyNTUsIDExMSwgMCkiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jdXAtc29kYS1pY29uIGx1Y2lkZS1jdXAtc29kYSI+PHBhdGggZD0ibTYgOCAxLjc1IDEyLjI4YTIgMiAwIDAgMCAyIDEuNzJoNC41NGEyIDIgMCAwIDAgMi0xLjcyTDE4IDgiLz48cGF0aCBkPSJNNSA4aDE0Ii8+PHBhdGggZD0iTTcgMTVhNi40NyA2LjQ3IDAgMCAxIDUgMCA2LjQ3IDYuNDcgMCAwIDAgNSAwIi8+PHBhdGggZD0ibTEyIDggMS02aDIiLz48L3N2Zz4=",
+            "id": "beverages",
+            "name": "Beverages"
+        },
+        {
+            "symbol": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9InJnYigyNTUsIDExMSwgMCkiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1jYWtlLXNsaWNlLWljb24gbHVjaWRlLWNha2Utc2xpY2UiPjxwYXRoIGQ9Ik0xNiAxM0gzIi8+PHBhdGggZD0iTTE2IDE3SDMiLz48cGF0aCBkPSJtNy4yIDcuOS0zLjM4OCAyLjVBMiAyIDAgMCAwIDMgMTIuMDFWMjBhMSAxIDAgMCAwIDEgMWgxNmExIDEgMCAwIDAgMS0xdi04LjY1NGMwLTItMi40NC02LjAyNi02LjQ0LTguMDI2YTEgMSAwIDAgMC0xLjA4Mi4wNTdMMTAuNCA1LjYiLz48Y2lyY2xlIGN4PSI5IiBjeT0iNyIgcj0iMiIvPjwvc3ZnPg==",
+            "id": "desserts",
+            "name": "Desserts"
+        },
+        {
+            "symbol": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9InJnYigyNTUsIDExMSwgMCkiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1sZWFmeS1ncmVlbi1pY29uIGx1Y2lkZS1sZWFmeS1ncmVlbiI+PHBhdGggZD0iTTIgMjJjMS4yNS0uOTg3IDIuMjctMS45NzUgMy45LTIuMmE1LjU2IDUuNTYgMCAwIDEgMy44IDEuNSA0IDQgMCAwIDAgNi4xODctMi4zNTMgMy41IDMuNSAwIDAgMCAzLjY5LTUuMTE2QTMuNSAzLjUgMCAwIDAgMjAuOTUgOCAzLjUgMy41IDAgMSAwIDE2IDMuMDVhMy41IDMuNSAwIDAgMC01LjgzMSAxLjM3MyAzLjUgMy41IDAgMCAwLTUuMTE2IDMuNjkgNCA0IDAgMCAwLTIuMzQ4IDYuMTU1QzMuNDk5IDE1LjQyIDQuNDA5IDE2LjcxMiA0LjIgMTguMSAzLjkyNiAxOS43NDMgMy4wMTQgMjAuNzMyIDIgMjIiLz48cGF0aCBkPSJNMiAyMiAxNyA3Ii8+PC9zdmc+",
+            "id": "salad",
+            "name": "Salad"
+        }
+    ],
+    "foods": [
+        {
+            "id": 1,
+            "name": "Chicken Kebab",
+            "category": "kebabs",
+            "price": 180,
+            "rating": 4.7,
+            "prepTime": 10,
+            "spiceLevel": "Medium",
+            "diet": "Halal",
+            "calories": 350,
+            "description": "Grilled chicken skewers marinated with spices.",
+            "image": "https://images.unsplash.com/photo-1604908176997-431c5c2f0c29",
+            "addons": [
+                "extra_cheese",
+                "extra_sauce"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Beef Kebab",
+            "category": "kebabs",
+            "price": 200,
+            "rating": 4.6,
+            "prepTime": 12,
+            "spiceLevel": "Hot",
+            "diet": "Halal",
+            "calories": 420,
+            "description": "Juicy beef kebabs grilled with Turkish spices.",
+            "image": "https://images.unsplash.com/photo-1605478033469-8c9b4b5e7d7e",
+            "addons": [
+                "extra_cheese",
+                "extra_sauce"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Zinger Burger",
+            "category": "burgers",
+            "price": 220,
+            "rating": 4.8,
+            "prepTime": 8,
+            "spiceLevel": "Medium",
+            "diet": "Halal",
+            "calories": 550,
+            "description": "Crispy fried chicken burger with lettuce and mayo.",
+            "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+            "addons": [
+                "extra_cheese",
+                "extra_meat"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Beef Cheese Burger",
+            "category": "burgers",
+            "price": 250,
+            "rating": 4.7,
+            "prepTime": 9,
+            "spiceLevel": "Mild",
+            "diet": "Halal",
+            "calories": 600,
+            "description": "Grilled beef patty with melted cheddar cheese.",
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+            "addons": [
+                "extra_cheese",
+                "extra_meat"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Chicken Biryani",
+            "category": "meals",
+            "price": 260,
+            "rating": 4.9,
+            "prepTime": 15,
+            "spiceLevel": "Medium",
+            "diet": "Halal",
+            "calories": 700,
+            "description": "Aromatic basmati rice cooked with chicken and spices.",
+            "image": "https://images.unsplash.com/photo-1604908177522-402b5c39d3e4",
+            "addons": [
+                "extra_egg",
+                "extra_chicken"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Fried Rice",
+            "category": "meals",
+            "price": 200,
+            "rating": 4.5,
+            "prepTime": 10,
+            "spiceLevel": "Mild",
+            "diet": "Halal",
+            "calories": 480,
+            "description": "Stir fried rice with vegetables and egg.",
+            "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b",
+            "addons": [
+                "extra_egg",
+                "extra_chicken"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "French Fries",
+            "category": "snacks",
+            "price": 90,
+            "rating": 4.4,
+            "prepTime": 5,
+            "spiceLevel": "Mild",
+            "diet": "Veg",
+            "calories": 300,
+            "description": "Crispy golden potato fries.",
+            "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f",
+            "addons": [
+                "extra_sauce"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Chicken Nuggets",
+            "category": "snacks",
+            "price": 150,
+            "rating": 4.6,
+            "prepTime": 6,
+            "spiceLevel": "Mild",
+            "diet": "Halal",
+            "calories": 340,
+            "description": "Crunchy chicken nuggets served with dip.",
+            "image": "https://images.unsplash.com/photo-1606756790138-261d2b21cdcf",
+            "addons": [
+                "extra_sauce"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Coca Cola",
+            "category": "drinks",
+            "price": 40,
+            "rating": 4.5,
+            "prepTime": 1,
+            "spiceLevel": "None",
+            "diet": "Veg",
+            "calories": 140,
+            "description": "Chilled Coca Cola soft drink.",
+            "image": "https://images.unsplash.com/photo-1622484212850-eb596d769edc",
+            "addons": []
+        },
+        {
+            "id": 10,
+            "name": "Cold Coffee",
+            "category": "drinks",
+            "price": 120,
+            "rating": 4.6,
+            "prepTime": 3,
+            "spiceLevel": "None",
+            "diet": "Veg",
+            "calories": 210,
+            "description": "Creamy iced coffee with chocolate syrup.",
+            "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096",
+            "addons": [
+                "extra_cream"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Chocolate Cake",
+            "category": "desserts",
+            "price": 140,
+            "rating": 4.8,
+            "prepTime": 4,
+            "spiceLevel": "None",
+            "diet": "Veg",
+            "calories": 420,
+            "description": "Rich chocolate cake slice.",
+            "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+            "addons": [
+                "extra_chocolate"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Ice Cream Sundae",
+            "category": "desserts",
+            "price": 130,
+            "rating": 4.7,
+            "prepTime": 3,
+            "spiceLevel": "None",
+            "diet": "Veg",
+            "calories": 350,
+            "description": "Vanilla ice cream with chocolate sauce.",
+            "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb",
+            "addons": [
+                "extra_chocolate"
+            ]
+        }
+    ],
+    "addons": {
+        "extra_cheese": {
+            "name": "Extra Cheese",
+            "price": 20
+        },
+        "extra_sauce": {
+            "name": "Extra Sauce",
+            "price": 10
+        },
+        "extra_meat": {
+            "name": "Extra Meat",
+            "price": 40
+        },
+        "extra_egg": {
+            "name": "Extra Egg",
+            "price": 15
+        },
+        "extra_chicken": {
+            "name": "Extra Chicken",
+            "price": 35
+        },
+        "extra_cream": {
+            "name": "Extra Cream",
+            "price": 15
+        },
+        "extra_chocolate": {
+            "name": "Extra Chocolate",
+            "price": 20
+        }
+    },
+    "dailySpecials": [
+        {
+            "foodId": 5,
+            "discount": 20,
+            "label": "Today's Special"
+        },
+        {
+            "foodId": 3,
+            "discount": 15,
+            "label": "Popular Lunch"
+        }
+    ],
+    "combos": [
+        {
+            "id": 1,
+            "name": "Burger Combo",
+            "items": [
+                3,
+                7,
+                9
+            ],
+            "price": 320,
+            "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "John Rahman",
+            "email": "john@company.com",
+            "favorites": [
+                1,
+                3
+            ],
+            "usualOrder": [
+                1,
+                9
+            ]
+        }
+    ],
+    "sampleOrders": [
+        {
+            "orderId": 1021,
+            "desk": "A12",
+            "items": [
+                {
+                    "foodId": 1,
+                    "qty": 1
+                },
+                {
+                    "foodId": 9,
+                    "qty": 1
+                }
+            ],
+            "status": "Preparing",
+            "total": 220
+        }
+    ]
+}
