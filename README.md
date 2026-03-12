@@ -1,4 +1,5 @@
 **Introductory Pitch for DineScan**
+---
 DineScan is a QR-based smart food ordering platform designed specifically for corporate offices and canteens. Instead of standing in long lines or waiting to place orders, employees simply scan a QR code placed around the office, instantly opening the digital menu on their phones. From there they can explore categorized dishes, view detailed food information, customize their meals, and place orders within seconds.
 The platform is built to deliver a smooth, modern, and efficient ordering experience similar to leading food apps like Foodpanda or Uber Eats, but optimized for office environments and internal cafeterias. Employees get convenience and speed, while the canteen benefits from organized orders, reduced crowding, and better operational efficiency.
 DineScan is designed as a scalable system. It can start as a simple digital menu and grow into a full food-ordering ecosystem with features like smart recommendations, order tracking, loyalty rewards, and analytics. The goal is to transform the traditional office cafeteria into a smart, digital dining experience.
