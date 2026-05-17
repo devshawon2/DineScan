@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Rahman",
+            "email": "john@company.com",
+            "favorites": [
+                1,
+                3
+            ],
+            "usualOrder": [
+                1,
+                9
+            ]
+        }
+    ]
+}

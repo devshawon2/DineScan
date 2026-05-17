@@ -1,6 +1,7 @@
 import React from 'react';
 import { Sparkles, X } from 'lucide-react';
 import sparcle from '../../../assets/sparcle.svg'
+// import { useState } from 'react';
 const DaisyHero = () => {
     return (
         <div className="bg-[#ffedd4] my-4 rounded-xl border border-orange-300 flex justify-between p-4">
@@ -24,5 +25,6 @@ const DaisyHero = () => {
         </div>
     );
 };
+
 
 export default DaisyHero;

@@ -43,15 +43,21 @@
             "category": "kebabs",
             "price": 180,
             "rating": 4.7,
+            "ratingCount": 124,
+            "tags": [
+                "popular",
+                "turkish",
+                "grilled"
+            ],
             "prepTime": 10,
             "spiceLevel": "Medium",
             "diet": "Halal",
             "calories": 350,
             "description": "Grilled chicken skewers marinated with spices.",
-            "image": "https://images.unsplash.com/photo-1604908176997-431c5c2f0c29",
+            "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "addons": [
-                "extra_cheese",
-                "extra_sauce"
+                "extra cheese",
+                "extra sauce"
             ]
         },
         {
@@ -60,15 +66,21 @@
             "category": "kebabs",
             "price": 200,
             "rating": 4.6,
+            "ratingCount": 98,
+            "tags": [
+                "popular",
+                "bbq",
+                "grilled"
+            ],
             "prepTime": 12,
             "spiceLevel": "Hot",
             "diet": "Halal",
             "calories": 420,
             "description": "Juicy beef kebabs grilled with Turkish spices.",
-            "image": "https://images.unsplash.com/photo-1605478033469-8c9b4b5e7d7e",
+            "image": "https://images.unsplash.com/photo-1629117407975-d3bdfd26aa86?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "addons": [
-                "extra_cheese",
-                "extra_sauce"
+                "extra cheese",
+                "extra sauce"
             ]
         },
         {
@@ -77,6 +89,12 @@
             "category": "burgers",
             "price": 220,
             "rating": 4.8,
+            "ratingCount": 210,
+            "tags": [
+                "best seller",
+                "fast food",
+                "crispy"
+            ],
             "prepTime": 8,
             "spiceLevel": "Medium",
             "diet": "Halal",
@@ -84,8 +102,8 @@
             "description": "Crispy fried chicken burger with lettuce and mayo.",
             "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
             "addons": [
-                "extra_cheese",
-                "extra_meat"
+                "extra cheese",
+                "extra meat"
             ]
         },
         {
@@ -94,6 +112,12 @@
             "category": "burgers",
             "price": 250,
             "rating": 4.7,
+            "ratingCount": 176,
+            "tags": [
+                "popular",
+                "cheesy",
+                "fast food"
+            ],
             "prepTime": 9,
             "spiceLevel": "Mild",
             "diet": "Halal",
@@ -101,33 +125,45 @@
             "description": "Grilled beef patty with melted cheddar cheese.",
             "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
             "addons": [
-                "extra_cheese",
-                "extra_meat"
+                "extra cheese",
+                "extra meat"
             ]
         },
         {
             "id": 5,
             "name": "Chicken Biryani",
-            "category": "meals",
+            "category": "lunch",
             "price": 260,
             "rating": 4.9,
+            "ratingCount": 320,
+            "tags": [
+                "signature",
+                "rice dish",
+                "spicy"
+            ],
             "prepTime": 15,
             "spiceLevel": "Medium",
             "diet": "Halal",
             "calories": 700,
             "description": "Aromatic basmati rice cooked with chicken and spices.",
-            "image": "https://images.unsplash.com/photo-1604908177522-402b5c39d3e4",
+            "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "addons": [
-                "extra_egg",
-                "extra_chicken"
+                "extra egg",
+                "extra chicken"
             ]
         },
         {
             "id": 6,
             "name": "Fried Rice",
-            "category": "meals",
+            "category": "lunch",
             "price": 200,
             "rating": 4.5,
+            "ratingCount": 142,
+            "tags": [
+                "asian",
+                "quick meal",
+                "comfort"
+            ],
             "prepTime": 10,
             "spiceLevel": "Mild",
             "diet": "Halal",
@@ -135,8 +171,8 @@
             "description": "Stir fried rice with vegetables and egg.",
             "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b",
             "addons": [
-                "extra_egg",
-                "extra_chicken"
+                "extra egg",
+                "extra chicken"
             ]
         },
         {
@@ -145,6 +181,12 @@
             "category": "snacks",
             "price": 90,
             "rating": 4.4,
+            "ratingCount": 260,
+            "tags": [
+                "snack",
+                "fast food",
+                "veg"
+            ],
             "prepTime": 5,
             "spiceLevel": "Mild",
             "diet": "Veg",
@@ -152,7 +194,7 @@
             "description": "Crispy golden potato fries.",
             "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f",
             "addons": [
-                "extra_sauce"
+                "extra sauce"
             ]
         },
         {
@@ -161,14 +203,20 @@
             "category": "snacks",
             "price": 150,
             "rating": 4.6,
+            "ratingCount": 188,
+            "tags": [
+                "snack",
+                "crispy",
+                "party food"
+            ],
             "prepTime": 6,
             "spiceLevel": "Mild",
             "diet": "Halal",
             "calories": 340,
             "description": "Crunchy chicken nuggets served with dip.",
-            "image": "https://images.unsplash.com/photo-1606756790138-261d2b21cdcf",
+            "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "addons": [
-                "extra_sauce"
+                "extra sauce"
             ]
         },
         {
@@ -177,6 +225,12 @@
             "category": "drinks",
             "price": 40,
             "rating": 4.5,
+            "ratingCount": 410,
+            "tags": [
+                "beverage",
+                "cold",
+                "refreshing"
+            ],
             "prepTime": 1,
             "spiceLevel": "None",
             "diet": "Veg",
@@ -191,6 +245,12 @@
             "category": "drinks",
             "price": 120,
             "rating": 4.6,
+            "ratingCount": 134,
+            "tags": [
+                "coffee",
+                "sweet",
+                "refreshing"
+            ],
             "prepTime": 3,
             "spiceLevel": "None",
             "diet": "Veg",
@@ -198,7 +258,7 @@
             "description": "Creamy iced coffee with chocolate syrup.",
             "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096",
             "addons": [
-                "extra_cream"
+                "extra cream"
             ]
         },
         {
@@ -207,6 +267,12 @@
             "category": "desserts",
             "price": 140,
             "rating": 4.8,
+            "ratingCount": 222,
+            "tags": [
+                "dessert",
+                "sweet",
+                "chocolate"
+            ],
             "prepTime": 4,
             "spiceLevel": "None",
             "diet": "Veg",
@@ -214,7 +280,7 @@
             "description": "Rich chocolate cake slice.",
             "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
             "addons": [
-                "extra_chocolate"
+                "extra chocolate"
             ]
         },
         {
@@ -223,6 +289,12 @@
             "category": "desserts",
             "price": 130,
             "rating": 4.7,
+            "ratingCount": 165,
+            "tags": [
+                "dessert",
+                "cold",
+                "sweet"
+            ],
             "prepTime": 3,
             "spiceLevel": "None",
             "diet": "Veg",
@@ -230,7 +302,118 @@
             "description": "Vanilla ice cream with chocolate sauce.",
             "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb",
             "addons": [
-                "extra_chocolate"
+                "extra chocolate"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Grilled Chicken Burger",
+            "category": "burgers",
+            "price": 230,
+            "rating": 4.6,
+            "ratingCount": 158,
+            "tags": [
+                "grilled",
+                "healthy",
+                "fast food"
+            ],
+            "prepTime": 9,
+            "spiceLevel": "Mild",
+            "diet": "Halal",
+            "calories": 480,
+            "description": "Juicy grilled chicken burger with fresh lettuce and sauce.",
+            "image": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
+            "addons": [
+                "extra cheese",
+                "extra sauce"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Mutton Kebab",
+            "category": "kebabs",
+            "price": 280,
+            "rating": 4.7,
+            "ratingCount": 132,
+            "tags": [
+                "bbq",
+                "spicy",
+                "premium"
+            ],
+            "prepTime": 14,
+            "spiceLevel": "Hot",
+            "diet": "Halal",
+            "calories": 450,
+            "description": "Tender mutton kebabs marinated with rich spices.",
+            "image": "https://images.unsplash.com/photo-1530469912745-a215c6b256ea?q=80&w=564&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "addons": [
+                "extra sauce"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Vegetable Biryani",
+            "category": "meals",
+            "price": 220,
+            "rating": 4.5,
+            "ratingCount": 110,
+            "tags": [
+                "veg",
+                "rice dish",
+                "spicy"
+            ],
+            "prepTime": 13,
+            "spiceLevel": "Medium",
+            "diet": "Veg",
+            "calories": 520,
+            "description": "Flavorful basmati rice cooked with fresh vegetables and spices.",
+            "image": "https://images.unsplash.com/photo-1630409346824-4f0e7b080087?q=80&w=1546&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "addons": [
+                "extra egg"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Onion Rings",
+            "category": "snacks",
+            "price": 100,
+            "rating": 4.3,
+            "ratingCount": 95,
+            "tags": [
+                "snack",
+                "crispy",
+                "fast food"
+            ],
+            "prepTime": 6,
+            "spiceLevel": "Mild",
+            "diet": "Veg",
+            "calories": 320,
+            "description": "Crispy battered onion rings served hot.",
+            "image": "https://images.unsplash.com/photo-1639024471283-03518883512d",
+            "addons": [
+                "extra sauce"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Strawberry Milkshake",
+            "category": "drinks",
+            "price": 140,
+            "rating": 4.7,
+            "ratingCount": 121,
+            "tags": [
+                "sweet",
+                "cold",
+                "refreshing"
+            ],
+            "prepTime": 4,
+            "spiceLevel": "None",
+            "diet": "Veg",
+            "calories": 260,
+            "description": "Creamy strawberry milkshake with fresh flavor.",
+            "image": "https://images.unsplash.com/photo-1577805947697-89e18249d767",
+            "addons": [
+                "extra cream"
             ]
         }
     ],
@@ -264,18 +447,6 @@
             "price": 20
         }
     },
-    "dailySpecials": [
-        {
-            "foodId": 5,
-            "discount": 20,
-            "label": "Today's Special"
-        },
-        {
-            "foodId": 3,
-            "discount": 15,
-            "label": "Popular Lunch"
-        }
-    ],
     "combos": [
         {
             "id": 1,
@@ -287,21 +458,6 @@
             ],
             "price": 320,
             "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
-        }
-    ],
-    "users": [
-        {
-            "id": 1,
-            "name": "John Rahman",
-            "email": "john@company.com",
-            "favorites": [
-                1,
-                3
-            ],
-            "usualOrder": [
-                1,
-                9
-            ]
         }
     ],
     "sampleOrders": [
